@@ -1,0 +1,5 @@
+main: net.wdlvn.IS.ItemSystem
+version: 1.0
+name: ItemSystem
+commands:
+  itemsystem:
